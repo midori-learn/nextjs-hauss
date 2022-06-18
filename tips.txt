@@ -1,0 +1,35 @@
+// docusaurus.io -- build optimized websites quickly, focus on your content
+// format for content of website
+// look like react redux doc, ...
+
+chuong 2: concepts
+
+* server sending ready to be rendered html seo
+* File-system routings
+* navigation
+* layout
+* data fetching (try with useSWR)
+* CSR, SSR, SSG
+* ISR (Incremental Static Regeneration)
+* Protected route
+* seo
+* i18n
+
+Reference: 
+-- smashing magazine/ category/ next.js
+-- nextjs.org /learn
+
+-- highlight: SWC:
+-- fast js and typescript compiler written in Rust.
+
+nextjs su dung cho fe hay be
+- co the su dung cho backend nhung khong nen dung
+- de gay ra van de
+- code phuc tap
+- tach biet repo for fe and repo for be
+
+code se co phan chay tren server, co phan chay tren cliend
+
+if(typeof window!== "undefined')
+{// do something on client side}
+
